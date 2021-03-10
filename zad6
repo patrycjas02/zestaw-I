@@ -1,0 +1,16 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main (){
+
+    int a,b;
+    cout<<"Podaj pierwsza liczbe"<<endl;
+    cin>>a;
+    cout<<"Podaj druga liczbe"<<endl;
+    cin>>b;
+    cout<<"Iloczyn tych liczb wynosi liczb wynosi: "<<a*b<<endl;
+
+return 0;
+}
