@@ -1,0 +1,17 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main (){
+
+    double a,b;
+    cout<<"Podaj wartosc a"<<endl;
+    cin>>a;
+    cout<<"Podaj wartosc b"<<endl;
+    cin>>b;
+    cout<<"Zatem szukamy rozwiazania rownania: "<<a<<"x+"<<b<<"=0"<<endl;
+    cout<<"Rozwiazaniem rownania jest liczba"<<endl<<"x="<< -b/a <<endl;
+
+return 0;
+}
