@@ -1,0 +1,14 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main (){
+
+    int a;
+    cout<<"Podaj liczbe"<<endl;
+    cin>>a;
+    cout<<"Podwojona wartosc tej liczby wynosi: "<<2*a<<endl;
+
+return 0;
+}
