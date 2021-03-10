@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main (){
+
+    int a=6;
+    int h=4;
+    int p=a*h/2;
+    cout<<"Pole trojkata wynosi:"<<p<<endl;
+
+return 0;
+}
