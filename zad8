@@ -1,0 +1,16 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main (){
+//załozylam ze podstawa ostroslupa to trojkat
+    double a,h;
+    cout<<"Podaj dlugosc podstawy ostroslupa"<<endl;
+    cin>>a;
+    cout<<"Podaj wysokosc ostroslupa"<<endl;
+    cin>>h;
+    cout<<"Objetosc ostroslupa o zadanych dlugosciach wynosi: "<<pow(a,2)*h/3<<endl;
+
+return 0;
+}
