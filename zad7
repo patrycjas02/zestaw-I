@@ -1,0 +1,16 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main (){
+
+    double a,h;
+    cout<<"Podaj dlugosc podstawy trojkata"<<endl;
+    cin>>a;
+    cout<<"Podaj wysokosc trojkata"<<endl;
+    cin>>h;
+    cout<<"Pole trojkata o zadanych dlugosciach wynosi: "<<a*h/2<<endl;
+
+return 0;
+}
