@@ -1,0 +1,15 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main (){
+
+    int a=3;
+    int h=7;
+    int p=pow(a,2);
+    int v=p*h/3;
+    cout<<"Objetosc ostroslupa wynosi:"<<v<<endl;
+
+return 0;
+}
